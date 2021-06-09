@@ -16,3 +16,6 @@ O código também se encontra com comentários sobre suas ações no próprio c�
 1. Você irá precisar instalar o Python, Selenium e o Webdriver do respectivo navegador que você escolheu (eu escolhi o do google chrome)
 <br>
 
+# Como fazer o código funcionar ? / How to make this code work ?
+<br>
+1. É bem simples, você só precisará copiar o código do arquivo Linkedin.py que está nesse repositório, colar em qualquer IDE e executar o mesmo
