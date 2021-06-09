@@ -19,9 +19,9 @@ O código também se encontra com comentários sobre suas ações no próprio c�
 <br>
 Irei disponibilizar 3 vídeos de outros autores (crédito deles) de como fazer essas instalações.
 <br>
-- Como instalar o Python : https://www.youtube.com/watch?v=KeDLsBmi3JA
-- Como instalar o Selenium : https://www.youtube.com/watch?v=Ot10qzrb13c
-- Como instalar o Webdriver do google chrome : https://www.youtube.com/watch?v=Ot10qzrb13c&t=183s
+- Como instalar o Python : https://www.youtube.com/watch?v=KeDLsBmi3JA <br>
+- Como instalar o Selenium : https://www.youtube.com/watch?v=Ot10qzrb13c <br>
+- Como instalar o Webdriver do google chrome : https://www.youtube.com/watch?v=Ot10qzrb13c&t=183s <br>
 <br>
 
 # Como fazer o código funcionar ? / How to make this code work ?
