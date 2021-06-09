@@ -28,7 +28,8 @@ Irei disponibilizar 3 vídeos de outros autores (crédito deles) de como fazer e
 
 # Como fazer o código funcionar ? / How to make this code work ?
 <br>
-1. É bem simples, você só precisará copiar o código do arquivo Linkedin.py que está nesse repositório, colar em qualquer IDE e executar o mesmo
+1. É bem simples, você só precisará copiar o código do arquivo Linkedin.py que está nesse repositório, colar em qualquer IDE e executar o mesmo 
+<br>
 <br>
 Apenas se atenha à esse respectivo trecho de código , onde você terá de substituir os trechos "usuário" e "senha" pelas credenciais de acesso do SEU linkedin.
 (Caso não altere, ele não irá conseguir logar no site)
@@ -37,6 +38,8 @@ Apenas se atenha à esse respectivo trecho de código , onde você terá de subs
 <img src = "https://user-images.githubusercontent.com/38107140/121280942-799a8800-c8ad-11eb-984b-adcc823a5c45.JPG" />
 
 
-
+Author : Rafael S. Rovira
+Linkedin : https://www.linkedin.com/in/rafael-rovira/
+Instagram : https://www.instagram.com/rafithabr/
 
 
