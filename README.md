@@ -38,7 +38,7 @@ Apenas se atenha à esse respectivo trecho de código , onde você terá de subs
 
 
 Autor : Rafael S. Rovira <br>
-Linkedin : https://www.linkedin.com/in/rafael-rovira/ <br>
-Instagram : https://www.instagram.com/rafithabr/ <br>
+<a href="https://www.linkedin.com/in/rafael-rovira/">Linkedin</a><br>
+<a href="https://www.instagram.com/rafithabr/">Instagram</a><br>
 
 
