@@ -17,7 +17,20 @@ O código também se encontra com comentários sobre suas ações no próprio c�
 <br>
 1. Você irá precisar instalar o Python, Selenium e o Webdriver do respectivo navegador que você escolheu (eu escolhi o do google chrome)
 <br>
+Irei disponibilizar 3 vídeos de outros autores (crédito deles) de como fazer essas instalações.
+<br>
+- Como instalar o Python : https://www.youtube.com/watch?v=KeDLsBmi3JA
+- Como instalar o Selenium : https://www.youtube.com/watch?v=Ot10qzrb13c
+- Como instalar o Webdriver do google chrome : https://www.youtube.com/watch?v=Ot10qzrb13c&t=183s
+<br>
 
 # Como fazer o código funcionar ? / How to make this code work ?
 <br>
 1. É bem simples, você só precisará copiar o código do arquivo Linkedin.py que está nesse repositório, colar em qualquer IDE e executar o mesmo
+<br>
+Apenas se atenha à esse respectivo trecho de código , onde você terá de substituir os trechos "usuário" e "senha" pelas credenciais de acesso do SEU linkedin.
+(Caso não altere, ele não irá conseguir logar no site)
+<br>
+![Capturar](https://user-images.githubusercontent.com/38107140/121279982-dc8b1f80-c8ab-11eb-9706-a0f5b99e1393.JPG)
+
+
