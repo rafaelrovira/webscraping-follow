@@ -24,7 +24,6 @@ Irei disponibilizar 3 vídeos de outros autores (crédito deles) de como fazer e
 - Como instalar o Selenium : https://www.youtube.com/watch?v=Ot10qzrb13c <br>
 - Como instalar o Webdriver do google chrome : https://www.youtube.com/watch?v=Ot10qzrb13c&t=183s <br>
 <br>
-<br>
 
 # Como fazer o código funcionar ? / How to make this code work ?
 <br>
