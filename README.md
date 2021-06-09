@@ -13,5 +13,6 @@ O código também se encontra com comentários sobre suas ações no próprio c�
 
 # Como instalar ? / How to install ? 
 <br>
-1. Você irá precisar instalar o Python, Selenium e o Driver do respectivo navegador que você escolheu (eu escolhi o do google chrome)
+1. Você irá precisar instalar o Python, Selenium e o Webdriver do respectivo navegador que você escolheu (eu escolhi o do google chrome)
 <br>
+
