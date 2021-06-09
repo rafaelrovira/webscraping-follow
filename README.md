@@ -19,9 +19,11 @@ O código também se encontra com comentários sobre suas ações no próprio c�
 <br>
 Irei disponibilizar 3 vídeos de outros autores (crédito deles) de como fazer essas instalações.
 <br>
+<br>
 - Como instalar o Python : https://www.youtube.com/watch?v=KeDLsBmi3JA <br>
 - Como instalar o Selenium : https://www.youtube.com/watch?v=Ot10qzrb13c <br>
 - Como instalar o Webdriver do google chrome : https://www.youtube.com/watch?v=Ot10qzrb13c&t=183s <br>
+<br>
 <br>
 
 # Como fazer o código funcionar ? / How to make this code work ?
@@ -32,6 +34,7 @@ Apenas se atenha à esse respectivo trecho de código , onde você terá de subs
 (Caso não altere, ele não irá conseguir logar no site)
 <br>
 <br>
+[trecho]
 
 
 
