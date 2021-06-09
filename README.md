@@ -1,4 +1,5 @@
 # WebScraping_Follow_Linkedin
+<br>
 Bot automatizado criado com Python e Selenium para conseguir conexões no Linkedin
 <br>
 IMPORTANTE ** Esse repositório e os tutoriais a seguir, são apenas para FINS ACADÊMICOS, não recomendo a utilização para outros meios, pois as diretrizes do Linkedin não permitem a utilização de nenhum tipo de automação. 
