@@ -38,8 +38,8 @@ Apenas se atenha à esse respectivo trecho de código , onde você terá de subs
 <img src = "https://user-images.githubusercontent.com/38107140/121280942-799a8800-c8ad-11eb-984b-adcc823a5c45.JPG" />
 
 
-Author : Rafael S. Rovira
-Linkedin : https://www.linkedin.com/in/rafael-rovira/
-Instagram : https://www.instagram.com/rafithabr/
+Autor : Rafael S. Rovira <br>
+Linkedin : https://www.linkedin.com/in/rafael-rovira/ <br>
+Instagram : https://www.instagram.com/rafithabr/ <br>
 
 
