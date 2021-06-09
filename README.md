@@ -31,6 +31,7 @@ Irei disponibilizar 3 vídeos de outros autores (crédito deles) de como fazer e
 Apenas se atenha à esse respectivo trecho de código , onde você terá de substituir os trechos "usuário" e "senha" pelas credenciais de acesso do SEU linkedin.
 (Caso não altere, ele não irá conseguir logar no site)
 <br>
-![Capturar](https://user-images.githubusercontent.com/38107140/121279982-dc8b1f80-c8ab-11eb-9706-a0f5b99e1393.JPG)
+<br>
+
 
 
